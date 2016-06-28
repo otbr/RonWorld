@@ -1,9 +1,4 @@
-forgottenserver [![Build Status](https://travis-ci.org/otland/forgottenserver.svg?branch=master)](https://travis-ci.org/otland/forgottenserver)
+RonWorld 
 ===============
 
-The Forgotten Server is a free and open-source MMORPG server emulator written in C++. It is a fork of the [OpenTibia Server](https://github.com/opentibia/server) project. To connect to the server, you can use [OTClient](https://github.com/edubart/otclient).
-
-### Getting Started
-
-* [Compiling](https://github.com/otland/forgottenserver/wiki/Compiling), alternatively download [nightly builds for Windows](http://nightlies.otland.net/)
-* [Scripting Reference](https://github.com/otland/forgottenserver/wiki/Script-Interface)
+OpenTibia Server based on TFS 1.1 and OTClient to make a full RPG oldschool server, with 7.6 as base client.
