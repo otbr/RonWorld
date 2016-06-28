@@ -37,18 +37,19 @@
 	<outfit type="0" looktype="578" name="Dream Warden" premium="1" unlocked="0" enabled="1" />
 	<outfit type="0" looktype="620" name="Jersey" premium="1" unlocked="0" enabled="1" />
 
+
 	<!-- Male outfits -->
-	<outfit type="1" looktype="128" name="Citizen" premium="0" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="129" name="Hunter" premium="0" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="130" name="Mage" premium="0" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="131" name="Knight" premium="0" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="132" name="Nobleman" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="133" name="Summoner" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="134" name="Warrior" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="143" name="Barbarian" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="144" name="Druid" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="145" name="Wizard" premium="1" unlocked="1" enabled="1" />
-	<outfit type="1" looktype="146" name="Oriental" premium="1" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="128" name="Citizen" premium="0" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="129" name="Hunter" premium="0" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="130" name="Mage" premium="0" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="131" name="Knight" premium="0" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="132" name="Nobleman" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="133" name="Summoner" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="134" name="Warrior" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="143" name="Barbarian" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="144" name="Druid" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="145" name="Wizard" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="146" name="Oriental" premium="1" unlocked="0" enabled="1" />
 	<outfit type="1" looktype="151" name="Pirate" premium="1" unlocked="0" enabled="1" />
 	<outfit type="1" looktype="152" name="Assassin" premium="1" unlocked="0" enabled="1" />
 	<outfit type="1" looktype="153" name="Beggar" premium="1" unlocked="0" enabled="1" />
@@ -73,4 +74,11 @@
 	<outfit type="1" looktype="574" name="Cave Explorer" premium="1" unlocked="0" enabled="1" />
 	<outfit type="1" looktype="577" name="Dream Warden" premium="1" unlocked="0" enabled="1" />
 	<outfit type="1" looktype="619" name="Jersey" premium="1" unlocked="0" enabled="1" />
+	<outfit type="1" looktype="622" name="Citizen" premium="0" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="623" name="Hunter" premium="0" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="624" name="Mage" premium="0" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="625" name="Knight" premium="0" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="626" name="Noblewoman" premium="1" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="627" name="Summoner" premium="1" unlocked="1" enabled="1" />
+	<outfit type="1" looktype="628" name="Warrior" premium="1" unlocked="1" enabled="1" />
 </outfits>
